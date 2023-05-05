@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    padding: 80px;
+    background-image: url(ant.png);
+    background-position: center;
+    background-size: 100%;
+    text-align: center;
+}
+
+.line{
+    text-align: center;
+    font-size: 70px;
+    color: red;
+    margin: 10px;
+    padding: 10px;
+}
+
+.anime{
+    font-size: 50px;
+    color: rgb(225, 100, 215);
+    text-align: center;
+    margin: 50px;
+    padding: 10px;
+}
+
+.sad{
+    text-align: center;
+    color: purple;
+    font-size: 50;
+    margin: 50px;
+    padding: 10px;
+}
+
+
